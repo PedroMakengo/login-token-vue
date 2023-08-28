@@ -8,6 +8,6 @@ const users = userStore()
   <main>
     <h1>Dashboard</h1>
 
-    {{ users }}
+    {{ users.users }}
   </main>
 </template>
